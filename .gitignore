@@ -63,9 +63,10 @@ warnin*
 critical_error*
 critical_warning*
 venv/
-elizabeth_celery_state.db.db
-celerybeat-schedule.db
+
 celerybeat.pid
 celerybeat-schedule
-elizabeth_celery_state.db
+.db
+
+.gitignore
 
