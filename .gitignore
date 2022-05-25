@@ -1,0 +1,71 @@
+# Numerous always-ignore extensions
+*.bak
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*.pyc
+.sass-cache
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# Espresso
+*.esproj
+*.espressostorage
+
+# Rubinius
+*.rbc
+
+# Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+node_modules
+migrations
+venv
+venv2
+files
+backup
+<<<<<<< HEAD
+logs/*.log
+=======
+logs
+>>>>>>> master
+
+# Error logs
+erro*
+warnin*
+
+.idea/
+critical_error*
+critical_warning*
+venv/
+elizabeth_celery_state.db.db
+celerybeat-schedule.db
+celerybeat.pid
+celerybeat-schedule
+elizabeth_celery_state.db
+
